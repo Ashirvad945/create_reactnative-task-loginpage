@@ -43,11 +43,11 @@ Before running this project, make sure you have installed:
   npm install -g expo-cli
 
 
-Clone the Repository --- 
+**Clone the Repository**
 git https://github.com/Ashirvad945/create_reactnative-task-loginpage.git
 cd PropertyApp
 
-Install Dependencies     ---- >Since node_modules is not included, you must install them manually:
+**Install Dependencies**     ---- >Since node_modules is not included, you must install them manually:
 
 `npm install`
 
@@ -57,7 +57,18 @@ Install Dependencies     ---- >Since node_modules is not included, you must inst
 
 
 
-🖼️ Screens Flow
+**🖼️ Screens Flow**
 Login Screen → Enter credentials → Press Login.
 Dashboard Screen → Greeting + Feature Cards + Sign Out button.
 Sign Out → Redirects back to Login screen.
+
+
+**📲 Run on your Mobile (Expo Go)**
+
+Make sure your laptop and phone are connected to the same Wi-Fi network.
+
+Install the Expo Go app on your phone.
+
+Scan the QR code shown in the terminal/browser using Expo Go.
+
+The app will open instantly on your phone. 🎉
