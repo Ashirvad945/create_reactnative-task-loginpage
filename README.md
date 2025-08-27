@@ -42,17 +42,17 @@ Before running this project, make sure you have installed:
   ```bash
   npm install -g expo-cli
 
-  -----------------------------------------------------------------------
 
 Clone the Repository --- 
 git https://github.com/Ashirvad945/create_reactnative-task-loginpage.git
 cd PropertyApp
 
 Install Dependencies     ---- >Since node_modules is not included, you must install them manually:
-npm install
+
+`npm install`
 
  Start the App
-npm start 
+ `npm start`
 
 
 
